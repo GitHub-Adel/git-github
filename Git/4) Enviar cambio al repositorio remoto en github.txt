@@ -1,15 +1,22 @@
 es para enviar los trabajo que he hecho hasta ahora. en mi rama feature/tarea y enviarla al remoto.
 tambien debe actualizar el master local.
+---------------------------------------------------------------------------
 
-1) abrir git bash
-2) cd  repo, posicionarnos en el directorio del repositorio local.
-3) git checkout issue#1, posicionarse en la rama o reature a enviar
-3) git pull origin master, actualiza mi remoto con el remoto master
-4) git add . 
-5) git commit -a -m 'descripcion del cambio que has hecho'
-6) git push origin issue#1, empuja los cambios de tu issue local a tu remoto
-7) git checkout master
-8) git pull origin master,  pasa los cambios de mi remoto al master remoto.
+1) me posiciono en el branch p feature que se esta trabajando.
+2) git pull origin issue#3,  bajo el repositorio remoto al issue#3, esto trae los cambios de los colaboradores.
+3) git add . 
+4) git commit -a -m 'descripcion del cambio que has hecho'
+5) git push origin issue#3, envio al repositorio remoto mi branch de trabajo issue#3
+6) esperar que te acepten el pull request, sino lo aceptan, no seguir el paso 8
+7) git branch -D issue#3, borro el branch issue#3
+8) git checkout master,  ahora me muevo a mi master local(mi principal local), puede ser develop u otra
+9) git pull origin master, luego de integren mis cambios al remoto, bajarlo a mi local para tenerlo al dia.
+
+nota:
+---------------
+para que entienda esto: 
+origin: es el repositorio remoto(NetCoreMVC), mas no una rama.
+git pull origin rama : esto baja el repositorio remoto a la rama local especificada.          
+git push origin rama: esto sube al repositorio remoto la rama local especificada   
 
 fin
-
