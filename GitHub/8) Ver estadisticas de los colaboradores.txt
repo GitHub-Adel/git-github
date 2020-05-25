@@ -1,0 +1,21 @@
+para saber quien trabaja y quien no
+
+1) ir al usuario en la parte superior derecha de arriba
+2) click derecho y click en your repository
+3) click en el repository
+4) click en Insights
+5) en el menu izq. podras ver todo.
+6) ir a settings, manager access, click en el colaborador y alli vera sus commit y demas.
+
+fin
+
+nota:
+-----------------------
+cuanto commit, constribucion, grafico y mas ha hecho un colaborador y 
+asi  saber cual esta trabajando y cual no, cual esta lento y cual rapido.
+para saber esto deberemos estar revisando los commit de cada colaborador.
+
+
+
+
+

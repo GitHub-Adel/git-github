@@ -1,0 +1,18 @@
+
+1) Crear repositorio en github -admin - github
+2) Configurar repositorio - github
+3) Que todos los colaboradores creen su cuenta de github.-admin y colab. -github
+4) Agregar colaboradores al repositorio y aplicar permiso- admin  -github
+5) Crear proyecto,columnas y notas - usando modelo canban(scrum ) Planificar tareas - admin -github
+6) Asignar(abrir) o reasignar(reabrir) tarea a los colaboradores -github
+7) Clonar repositorio remoto - git
+8) Crear feature branch tareas o issue en local - git
+9) Trabajar y enviar los cambios al repositorio remoto - git
+10) El colaborador debe entrar a github y enviar pull request, para que acepten o declinen los cambios.
+11) El adm, debe entrar y revisar los cambio y luego aprobar o declinar
+12) Borrar branch o tarea o feature local y remoto.  - git y github
+13) Corregir errores Hotfix en producion. - git y github
+14) Comandos de consultas.    - git 
+15) Ver estadistica -github
+
+fin
