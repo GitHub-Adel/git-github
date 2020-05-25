@@ -1,0 +1,53 @@
+es almacenamiento en la nube para tener nuestro proyecto protegido y poder
+descargarlo desde cualquier lugar, esto nos permite trabajar con colaboradores de
+otro lugar incluso pais.
+
+a)  Bloquear commit directamente en la rama master
+----------------------------------------
+con esto los colaboradores se veran obligligado a solicitar pull request.
+y no haran push directamente en master, ni podran hacerlo.
+
+1) ir al al usuario
+2) click derecho, your repository, elegir repo.
+3) setting
+4) branch
+5) add rule
+6) branch name pattern = master
+7) protect matching branches= require pull request reviews before merging 
+8) requeriment approved review=3
+9)  create
+10) save changes
+
+b) hacer que se elimine el branch del feature, luego que sea aprobada y aceptada el full request.
+-----------------------------------------------
+1) ir al usuario
+2) click derecho, your repository, elegir repo.
+3) opcions
+4) Automatically delete head branches 
+
+c) cambiar nombre al repositorio
+-------------------------------------------------------
+1) ir al usuario
+2) click derecho, your repository, elegir repo.
+3) opcions
+4) Repository name
+5) rename
+
+
+d) eliminar el repositorio
+-------------------------------------------------------
+1) ir al usuario
+2) click derecho, your repository, elegir repo.
+3) opcions
+4) delete this repository
+
+e) cambiar de privado a public o viseversa el repositorio
+-------------------------------------------------------
+1) ir al usuario
+2) click derecho, your repository, elegir repo.
+3) opcions
+4) make private o make public
+
+fin
+
+

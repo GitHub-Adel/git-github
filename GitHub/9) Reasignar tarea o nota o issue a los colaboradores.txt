@@ -1,0 +1,15 @@
+es reabrirle la tarea al colaborador, si este no cumplio con lo requerido en el issue.
+
+1) ir al usuario en la parte superior derecha de arriba
+2) click derecho y click en your project
+3) click en el proyecto
+4) darle click enzima a la nota o tarea en la columna (Hecho)
+6) a la derecha se abriran unas opciones
+7) abajo aparece un boton que dice reacinar issue
+
+fin
+
+
+
+
+

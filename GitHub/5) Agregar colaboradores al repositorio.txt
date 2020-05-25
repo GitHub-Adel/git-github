@@ -1,0 +1,18 @@
+este proyecto nos permitira administrar lo que cada colaborador va, esta y ha hecho.
+
+1) ir al usuario en la parte superior derecha de arriba
+2) click derecho y click en your repository
+3) elegir el repositorio al que pertenecera el colaborador
+4) Settings
+5) manage access
+6) invite a collaborator
+7) poner el usuario del colaborador en el cuadro de busqueda y elegir
+8) add nombreusuario to nombrerepositorio
+9) el usuario debe iniciar sesion en github
+10) un correo llegara al colaborador este debe aceptar la invitacion entrando a su correo, elegir la
+    opcion acept o decline invitacion.
+11) se abrira la pagina de github, click en el boton acept invitacion
+
+
+fin
+
