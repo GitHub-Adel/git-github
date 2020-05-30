@@ -1,0 +1,47 @@
+es para enviar los trabajo que he hecho hasta ahora. en mi rama feature/tarea y enviarla al remoto.
+tambien debe actualizar el master local.
+
+
+1) ACTUALIZO LA RAMA EN LA QUE ESTOY TRABAJANDO
+---------------------------------------------------------------------------
+a) git checkout issue#3
+b) git pull origin ramaRemota
+
+2) EMPUJO LOS CAMBIOS AL REMOTO.
+---------------------------------------------------------------------------
+a) git add . 
+b) git commit -a -m 'descripcion del cambio que has hecho'
+c) git push origin issue#3
+
+3) SOLICITO POR GITHUB QUE INTEGREN MI RAMA AL REMOTO
+---------------------------------------------------------------------------
+a) crear el pull request por github.
+b) esperar que te acepten el pull request, sino lo aceptan, no seguir al paso siguiente.
+
+4) BORRAR LA RAMA DE LA TAREA QUE TERMINE
+---------------------------------------------------------------------------
+a) git checkout master
+b) git branch -D ramaLocal
+
+5) BAJO LOS CAMBIOS A MI MASTER LOCAL, YA QUE TRABAJE DESDE UN FEATURE.
+---------------------------------------------------------------------------
+a) git checkout master
+b) git pull origin master
+
+
+
+nota:
+---------------
+git checkout ramaLocal:  se mueve a esa ramaLocal, para manipular cualquier cosa que pertenezca a una rama 		    	    local, debes posicionarte en esa ramaLocal. eje: barjar o subir los cambios remoto,
+		    eliminarle una rama que se haya creado a partir de ella, en este caso una rama hija.
+
+git pull origin ramaRemota : origin es la rama local,  en este caso baja la rama remota a la rama local.  
+   
+git add .   git commit -a -m  'descripcion'  : crea el commit del cambio, esto para poder posicionarnos en el,
+                                                                       en caso de querer volver a un estado anterior.
+
+git push origin ramaRemota: empuja la rama local, a la rama remota en github, sino existe la crea.
+
+git branch -D ramaLocal : borro el branch local, despues que haya terminado la tarea.
+
+fin
