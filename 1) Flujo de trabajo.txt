@@ -1,16 +1,19 @@
 Flujo de trabajo de funcionalidad
 ---------------------------------------------
 Estaremos utilizando este flujo, donde cada colaborador crea una rama apartir de master
-por cada tarea que se le asigne, luego debera hacer un pull request al adm, para que este
-lo incorpore a la rama master o en cambio decline el pull request. 
-el admin, debera configurar el repositorio para que el colaborador no pueda hacer commit directamente
-en el branch master(producion), sino que tenga que hacer un pull request
+por cada tarea que se le asigne.
 
-nota:
------------------------
-antes de hacer un pull request, el colaborador debera traer los datos de master a su branch
-para recoger los cambio de los demas participante y luego incorporar los suyo.
-fetch y pull.
+1) Crear repositorio remoto (github).
+2) Clonar repositorio (git).
+3) Crear tarea (git).
+4) Realizar tarea 
+5) Empujar tarea (git).
+6) Crear pull request
+7) Esperar aprovacion del pull request
+8) Eliminar tarea
+9) Bajar los cambios remoto al local
+
+fin
 
 
 
