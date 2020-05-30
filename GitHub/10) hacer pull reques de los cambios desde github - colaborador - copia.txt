@@ -1,0 +1,10 @@
+ solicitar pull request. desde github
+
+1) ir al al usuario
+2) click derecho y new repository
+3) selecionar el branch o feature o tarea que quieres enviar.
+4) pull request.
+
+fin
+
+
