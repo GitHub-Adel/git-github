@@ -1,0 +1,27 @@
+es asignarle una tarea a cada colaborador.
+
+1) ir al usuario en la parte superior derecha de arriba
+2) click derecho y click en your project
+3) click en el proyecto
+4) arrastrar y soltar la tarea en la columna (Haciendo)
+5) darle click enzima a la nota o tarea
+6) a la derecha se abriran unas opciones
+7) asignar colaborador
+9) asignar label
+10) asignar proyecto
+
+fin
+
+nota:
+-----------------------
+un correo le llegara al colaborador, indicandole del nuevo issue, en su github 
+vera que le fue asignado un issue. o tarea. la cual debera darle seguimiento
+y cuando la termine debera cerrar, https://github.com/notifications. aqui vera las notificacion
+de los issue,el admn, recibira tambien un correo con el comentario de que el colaborador ha puesto en su cierre del issue, debera revisar el commit y si no comple con lo necesitado, 
+declinara el commit o el pull request y pondra un comentario al issue 
+y lo reabrira. nota: en el comentario puedes pegar print   screem.
+
+
+
+
+

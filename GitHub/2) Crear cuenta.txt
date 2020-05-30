@@ -1,0 +1,15 @@
+esto es para poder logearnos en github
+
+1) ir a https://github.com/
+2) elegir la opcion Sign up
+3) llenar los datos 
+4) Sign up for GitHub
+5) seguir los pasos hasta verificar el correo que te envian.
+
+fin
+
+
+-----------------
+desarrolador-prueba
+a.sanchez@concentra.com
+clave:la misma del usuario de adelson
