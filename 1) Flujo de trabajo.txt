@@ -3,15 +3,19 @@ Flujo de trabajo de funcionalidad
 Estaremos utilizando este flujo, donde cada colaborador crea una rama apartir de master
 por cada tarea que se le asigne.
 
+0) Almacenar credenciales una vez solicitada en local.
 1) Crear repositorio remoto (github).
 2) Clonar repositorio (git).
-3) Crear tarea (git).
-4) Realizar tarea 
-5) Empujar tarea (git).
-6) Crear pull request
-7) Esperar aprovacion del pull request
-8) Eliminar tarea
-9) Bajar los cambios remoto al local
+3) Crear feature (git).
+4) Realizar feature
+5) Bajar master
+6) Empujar feature (git).
+7) Crear pull request
+8) Esperar aprovacion del pull request
+9) Cambiar a master
+10)Bajar cambios
+11) Eliminar feature
+
 
 fin
 
