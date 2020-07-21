@@ -4,7 +4,7 @@ es bajar una copia del repositorio en hithub hacia tu pc
 1) crear directorio local si lo clonará en una unidad obviar paso.
 2) abrir git bash
 3) cd ruta, moverse al directorio que creo, para ello valla al directorio y copie la ruta,pegar con la tecla insert.
-4) git clone url repositorio, pegar con la tecla insert.
+4) git clone url-repositorio  -b develop --single-branch , para clonar el develop branch.
 5) cd repositorio local, ir y copiar y pegar aqui.
 
 fin
