@@ -9,9 +9,8 @@ b) git pull origin ramaRemota
 
 2) EMPUJO LOS CAMBIOS AL REMOTO.
 ---------------------------------------------------------------------------
-a) git add . 
-b) git commit -m 'descripcion del cambio que has hecho'
-c) git push origin issue#3
+a) git commit -am "descripcion del cambio que has hecho"
+b) git push origin issue#3
 
 3) SOLICITO POR GITHUB QUE INTEGREN MI RAMA AL REMOTO
 ---------------------------------------------------------------------------
