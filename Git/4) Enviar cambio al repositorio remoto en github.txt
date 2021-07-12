@@ -4,13 +4,13 @@ tambien debe actualizar el master local.
 
 1) ACTUALIZO LA RAMA EN LA QUE ESTOY TRABAJANDO
 ---------------------------------------------------------------------------
-a) git checkout issue#3
+a) git checkout ramalocal
 b) git pull origin ramaRemota
 
 2) EMPUJO LOS CAMBIOS AL REMOTO.
 ---------------------------------------------------------------------------
 a) git commit -am "descripcion del cambio que has hecho"
-b) git push origin issue#3
+b) git push origin ramaRemota
 
 3) SOLICITO POR GITHUB QUE INTEGREN MI RAMA AL REMOTO
 ---------------------------------------------------------------------------
