@@ -1,0 +1,9 @@
+Eliminar rama:
+---------------------------------------
+
+1. git branch -D rama  --elimina la rama local
+2. git push origin -d rama --elimina la rama remota
+
+fin
+
+

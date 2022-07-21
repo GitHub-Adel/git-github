@@ -1,0 +1,6 @@
+1. git checkout rama --se coloca en la rama a empujar
+2. git add .
+3. git commit -m "descripcion del cambio que has hecho"
+4. git push origin rama -f --empuja rama al remoto(origin)
+
+

@@ -1,0 +1,8 @@
+Esto cambia el editor con el que se modifican los conflitos y eso.
+----------------------------------------------------
+
+1. git config --global core.editor "'Ruta/nombre.exe' -multiInst -notabbar -nosession -noPlugin"
+
+EJEMPLO:
+==============
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"

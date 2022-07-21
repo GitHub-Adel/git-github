@@ -1,0 +1,10 @@
+es para trabajar las tareas asignadas.
+--------------------------------------------
+1. git checkout develop --nos colocamos en la rama desde la que sacaremos la nueva
+2. git checkout -b rama1 --creamos la nueva rama y nos posicionamos en ella
+
+fin
+
+
+
+
