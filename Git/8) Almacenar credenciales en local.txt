@@ -1,1 +1,14 @@
-git config --global credential.helper store
+entrar a github y configurar un token:
+-----------------
+1. click en el boton de login
+2. settings
+3. developer setting
+4. personal access tokens
+5. generate new token
+6. generate token
+7. guardar aqui el token para futuros accesos: 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 
+8. git config --global credential.helper store
+9. poner usuario y clave de github
+10. poner usuario y token
+
+fin

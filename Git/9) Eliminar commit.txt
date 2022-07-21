@@ -1,0 +1,8 @@
+ABRE UN EDITOR CON TODOS LOS COMMIT PREVIO AL QUE SE PUSO EN REBASE, PODRAS ELIMINAR LOS QUE QUIRAS.
+----------------------------------------------------
+1. git checkout rama --colocarse en la rama en donde eliminar los commit
+2. git log master..rama -- mostrar los commit de rama, git log master --muestra la master
+3. git rebase -i id_commit --ponga el commit que esta antes al que desea eliminar
+4. se abrira el editor con las primeras lineas diciendo:  
+   pick a2cf5ab rama3    : sustituya pick por drop, para eliminar ese commit
+5. guarde los cambios en el editor y cierre.
