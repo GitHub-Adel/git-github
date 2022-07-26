@@ -14,7 +14,7 @@ por cada requerimiento que se le asigne.
 8) Esperar aprovacion del pull request
 9) Cambiar a develop
 10) Bajar cambios
-11) Eliminar rama
+11) Eliminar rama trabajada
 
 
 fin
