@@ -1,0 +1,10 @@
+entra al repositorio remoto por el navegador
+y busca la opcion CREATE MERGE REQUEST, o preguntar al administrador
+del repositorio. con esto creara una solicitud de incorporacion 
+de tu branch con el branch develop.
+
+otra forma de incorporar con develop, si tienes los permisos es:
+============================================
+1. cambiarse al branch develop
+2. descargar los cambios de la rama de trabajo en develop
+fin.

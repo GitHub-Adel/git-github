@@ -9,3 +9,5 @@ es bajar una copia del repositorio en hithub hacia tu pc
 
 fin
 
+
+git clone http://lxtoshgitlab0001.corp.codetel.com.do/actintelered/repositorio_xdts.git  -b develop --single-branch

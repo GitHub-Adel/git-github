@@ -1,6 +1,6 @@
 
 1. git checkout rama1 --colacarse en la rama de trabajo
-2. git rebase develop --trae los cambios de develop a rama1
+2. git pull origin develop --trae los cambios de develop a rama1
 3. verificar que no haya conflicto y todo abra y compile bien.
 
 fin
